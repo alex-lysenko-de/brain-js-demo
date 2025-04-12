@@ -46,9 +46,6 @@ F88484F8848484F8=>B
 
 Where the part before `=>` is the encoded 8x8 image in hexadecimal, and the letter after `=>` is the expected output.
 
-## 📷 Screenshot
-
-![App Screenshot](screenshot.png) <!-- Optional: replace with actual screenshot -->
 
 ## ✅ Features
 
@@ -75,3 +72,8 @@ MIT — Free to use with attribution 😊
 ---
 
 > Built as a fun side project exploring neural networks and JavaScript.
+>
+
+## 📷 Screenshot
+
+![App Screenshot](img/main.png)
