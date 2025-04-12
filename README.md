@@ -15,14 +15,11 @@ The user can:
 
 - **[Brain.js](https://brain.js.org/)** — Neural networks in JavaScript
 - **HTML5 Canvas** — Drawing interface for letter shapes
-- **jQuery** — DOM interaction
 - **Vanilla JS** — Data handling and UI logic
 
 ## 📂 Project Structure
 
-- `index.html` — Main app UI
-- `nnet.js` — Class for initializing and running the neural network
-- `utils.js` — Helper functions (shifting grid, data packing/unpacking, etc.)
+- `index.html` — Main app UI. It contains everything. Thats all you need to test the project
 
 ## 🚀 How to Run
 
