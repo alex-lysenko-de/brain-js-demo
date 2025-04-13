@@ -1,4 +1,4 @@
-# 🧠 Simple Letter Detection with Brain.js [Youtube](https://youtu.be/73i75CEyvzM)
+# 🧠 Simple Letter Detection with Brain.js 
 
 This project demonstrates how to use [Brain.js](https://brain.js.org) and JavaScript to build a simple neural network that recognizes letters (A to F) based on their pixel representations.
 
@@ -21,7 +21,7 @@ The user can:
 
 - `index.html` — Main app UI. It contains everything. Thats all you need to test the project
 
-## 🚀 How to Run
+## 🚀 How to Run (see [demo on youtube](https://youtu.be/73i75CEyvzM))
 
 1. Open `index.html` in a web browser.
 2. Click on a letter button (A–F) to show its default shape on the grid.
@@ -73,4 +73,4 @@ MIT — Free to use with attribution 😊
 
 ## 📷 Screenshot
 
-![App Screenshot](img/main.png)
+[![App Screenshot](img/main.png)](https://youtu.be/73i75CEyvzM)
