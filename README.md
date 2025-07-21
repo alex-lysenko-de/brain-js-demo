@@ -23,7 +23,7 @@ The user can:
 
 ## 🚀 How to Run (see [demo on youtube](https://youtu.be/73i75CEyvzM))
 
-1. Open `[index.html](https://raw.githack.com/alex-lysenko-de/brain-js-demo/main/index.html)` in a web browser.
+1. Open [index.html](https://raw.githack.com/alex-lysenko-de/brain-js-demo/main/index.html) in a web browser.
 2. Click on a letter button (A–F) to show its default shape on the grid.
 3. Modify the shape by clicking cells in the grid.
 4. Press **"Add to training"** to add it to the training set.
