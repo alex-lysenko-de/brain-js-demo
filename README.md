@@ -1,4 +1,4 @@
-# 🧠 Simple Letter Detection with Brain.js 
+# 🧠 Simple Letter Detection with Brain.js ([try it](https://raw.githack.com/alex-lysenko-de/brain-js-demo/main/index.html))
 
 This project demonstrates how to use [Brain.js](https://brain.js.org) and JavaScript to build a simple neural network that recognizes letters (A to F) based on their pixel representations.
 
@@ -61,6 +61,10 @@ Where the part before `=>` is the encoded 8x8 image in hexadecimal, and the lett
   errorThresh: 0.005,
 }
 ```
+## 🔗 See Also
+
+- For a more advanced text recognition solution, check out: [Text Recognition using Tesseract OCR](https://github.com/alex-lysenko-de/clipboard-plus/tree/main/tesseract)
+
 
 ## 📄 License
 
